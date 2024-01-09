@@ -1,0 +1,4 @@
+Installation
+torch == 1.13.1
+numpy == 1.25.1
+scipy = 1.11.1
